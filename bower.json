@@ -1,0 +1,22 @@
+{
+  "name": "gulp-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "RabbitProgram <726674574@qq.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "^1.5.5"
+  }
+}
